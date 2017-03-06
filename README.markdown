@@ -8,6 +8,7 @@ Example images using each of the EXIF orientation flags (1-to-8), in both landsc
 Change history
 -----------
 
+* **Version 1.0.2 (2017-03-06)** : Remove Apple Copyrighted ICC profile from orientations 2-8 (thanks @mans0954!).
 * **Version 1.0.1 (2013-03-10)** : Add MIT license and some contact details.
 * **Version 1.0.0 (2012-07-28)** : 1.0 release.
 
