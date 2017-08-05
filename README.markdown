@@ -50,6 +50,7 @@ Credits
 Change history
 --------------
 
+* **Version 2.0.0 (2017-08-05)** : Add a script to generate example images from the command line.
 * **Version 1.0.2 (2017-03-06)** : Remove Apple Copyrighted ICC profile from orientations 2-8 (thanks @mans0954!).
 * **Version 1.0.1 (2013-03-10)** : Add MIT license and some contact details.
 * **Version 1.0.0 (2012-07-28)** : 1.0 release.
