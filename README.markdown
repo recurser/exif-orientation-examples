@@ -11,7 +11,7 @@ Generating your own images
 
 If you would like to generate test images based on your own photos, you can use the `generate.rb` script included in the `generator` folder.
 
-The instructions below assume you are running on OSX - if not, you will need to install the Ghostscript fonts (`brew install gs`) some other way.
+The instructions below assume you are running on macOS - if not, you will need to install the Ghostscript fonts (`brew install gs`) some other way.
 
 To install the dependencies:
 
