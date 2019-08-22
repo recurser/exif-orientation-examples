@@ -1,7 +1,7 @@
 EXIF Orientation-flag example images
 ====================================
 
-Example images using each of the EXIF orientation flags (1-to-8), in both landscape and portrait orientations.
+Example images using each of the EXIF orientation flags (0-to-8), in both landscape and portrait orientations.
 
 [See here](http://www.daveperrett.com/articles/2012/07/28/exif-orientation-handling-is-a-ghetto/) for more information.
 
@@ -16,7 +16,7 @@ The instructions below assume you are running on macOS - if not, you will need t
 To install the dependencies:
 
 ```
-> brew install gs
+> brew install gs exiftool imagemagick@6
 > cd generator
 > gem install bundler
 > bundle install
@@ -26,10 +26,10 @@ To generate test images:
 
 ```
 > cd generator
-> ./generate path/to/image.jpg
+> ./generate.rb path/to/image.jpg
 ```
 
-This will create images `image_1.jpg` through to `image_8.jpg`.
+This will create images `image_0.jpg` through to `image_8.jpg`.
 
 
 Re-generating sample images
