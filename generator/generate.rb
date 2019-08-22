@@ -73,6 +73,11 @@ end
 
 transformations = [
   {
+    exif_tag:         0,
+    rotation_degrees: 0,
+    flop:             false,
+  },
+  {
     exif_tag:         1,
     rotation_degrees: 0,
     flop:             false,
