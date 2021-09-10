@@ -31,6 +31,11 @@ To generate test images:
 
 This will create images `image_0.jpg` through to `image_8.jpg`.
 
+**Python alternative**
+```
+> cd generator
+> python generator.py path/to/image.jpg
+```
 
 Re-generating sample images
 ---------------------------
