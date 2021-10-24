@@ -40,6 +40,12 @@ Simply run `make` to regenerate the included sample images. This will download r
 Generating these images depends on having the generator dependencies installed - see the *Generating your own images* section for instructions on installing dependencies.
 
 
+Alternatives
+-------
+
+- [@zchrissirhcz](https://github.com/zchrissirhcz) has [implemented the generator script in Python](https://github.com/zchrissirhcz/exif-orientation-examples/blob/master/generator/generate.py)
+
+
 Credits
 -------
 
